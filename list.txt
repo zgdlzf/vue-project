@@ -1,0 +1,12 @@
+第一步 修改文件夹结构为
+dist
+src -components+views+routes+assets+main.js
+第二步 npm install webpack webpack-cli webpack-dev-server style-loader css-loader vue-loader file-loader vue-router
+第三步 创建webpack.config.js
+第四部 创建package.json   
+  npm init -y
+
+"dev":"webpack-dev-server --mode development --open",
+"build":"webpack --mode production"
+第五步 新建index.html
+第六步 npm run dev

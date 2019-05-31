@@ -1,3 +1,4 @@
+webpack结构搭建
 第一步 修改文件夹结构为
 dist
 src -components+views+routes+assets+main.js
@@ -10,3 +11,8 @@ src -components+views+routes+assets+main.js
 "build":"webpack --mode production"
 第五步 新建index.html
 第六步 npm run dev
+vue 组件拆分
+第一步
+将index的header、aside和footer部分拆分到components
+并新建app.vue用于存放wrapper>topnav
+新建index.vue、list.vue、detail.vue保留content

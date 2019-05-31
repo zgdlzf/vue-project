@@ -1,7 +1,6 @@
 {
   "name": "xiu",
   "version": "1.0.0",
-  "description": "",
   "main": "webpack.config.js",
   "dependencies": {
     "css-loader": "^2.1.1",
@@ -16,10 +15,19 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"webpack-dev-server --mode development --open",
-    "build":"webpack --mode production"
+    "dev": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zgdlzf/vue-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zgdlzf/vue-project/issues"
+  },
+  "homepage": "https://github.com/zgdlzf/vue-project#readme",
+  "description": ""
 }

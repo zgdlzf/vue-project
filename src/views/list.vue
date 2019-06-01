@@ -16,16 +16,16 @@
                     <p class="thumb">
                         <a href="javascript:;">
 								<span>
-									<img src="./uploads/new_1.jpg" alt="">
+									<img src="../assets/uploads/new_1.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_2.jpg" alt="">
+									<img src="../assets/uploads/new_2.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_3.jpg" alt="">
+									<img src="../assets/uploads/new_3.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_4.jpg" alt="">
+									<img src="../assets/uploads/new_4.jpg" alt="">
 								</span>
                         </a>
                     </p>
@@ -53,16 +53,16 @@
                     <p class="thumb">
                         <a href="javascript:;">
 								<span>
-									<img src="./uploads/new_5.jpg" alt="">
+									<img src="../assets/uploads/new_5.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_6.jpg" alt="">
+									<img src="../assets/uploads/new_6.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_7.jpg" alt="">
+									<img src="../assets/uploads/new_7.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_8.jpg" alt="">
+									<img src="../assets/uploads/new_8.jpg" alt="">
 								</span>
                         </a>
                     </p>
@@ -116,16 +116,16 @@
                     <p class="thumb">
                         <a href="javascript:;">
 								<span>
-									<img src="./uploads/new_10.jpg" alt="">
+									<img src="../assets/uploads/new_10.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_11.jpg" alt="">
+									<img src="../assets/uploads/new_11.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_12.jpg" alt="">
+									<img src="../assets/uploads/new_12.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_13.jpg" alt="">
+									<img src="../assets/uploads/new_13.jpg" alt="">
 								</span>
                         </a>
                     </p>
@@ -153,16 +153,16 @@
                     <p class="thumb">
                         <a href="javascript:;">
 								<span>
-									<img src="./uploads/new_14.jpg" alt="">
+									<img src="../assets/uploads/new_14.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_15.jpg" alt="">
+									<img src="../assets/uploads/new_15.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_16.jpg" alt="">
+									<img src="../assets/uploads/new_16.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_17.jpg" alt="">
+									<img src="../assets/uploads/new_17.jpg" alt="">
 								</span>
                         </a>
                     </p>
@@ -185,291 +185,7 @@
     </div>
 </template>
 <style>
-    /*资讯列表*/
-    .content .panel {
-        padding: 20px 20px 0;
-        background-color: #FFF;
-        overflow: hidden;
-    }
 
-    .content .panel h3 {
-        display: inline-block;
-        line-height: 32px;
-        font-size: 20px;
-        font-weight: 600;
-        border-bottom: 2px solid #FF5E52;
-    }
-
-    .content .panel dl {
-        position: relative;
-        padding: 15px 0;
-        clear: both;
-    }
-
-    .content .panel dt {
-        height: 30px;
-        line-height: 1;
-        padding: 5px 0;
-        margin: 8px 0 10px 0;
-        box-sizing: border-box;
-        font-size: 22px;
-        color: #444;
-    }
-
-    .content .panel dt a {
-        color: #444;
-        transition: all 0.5s;
-    }
-
-    .content .panel dt a:hover {
-        color: #FF5E52;
-    }
-
-    .content .panel dt .sort {
-        position: relative;
-        display: block;
-        height: 24px;
-        line-height: 24px;
-        padding: 0 10px;
-        margin-right: 10px;
-        float: left;
-        color: #FFF;
-        background-color: #FF5E52;
-        font-size: 12px;
-    }
-
-    .content .panel dt .sort:after {
-        display: block;
-        position: absolute;
-        top: 8px;
-        right: -8px;
-        content: '';
-        border-width: 4px;
-        border-style: solid;
-        border-color: transparent transparent transparent #FF5E52;
-    }
-
-    .content .panel dd {
-        overflow: hidden;
-        margin-bottom: 8px;
-    }
-
-    .content .info {
-        font-size: 12px;
-        color: #999;
-    }
-
-    .content .brief {
-        line-height: 22px;
-        margin-top: 6px;
-        margin-bottom: 10px;
-        font-size: 14px;
-        color: #777;
-    }
-
-    .content .extra {
-        font-size: 12px;
-        color: #999;
-    }
-
-    .content .extra .glyphicon {
-        width: 12px;
-        height: 12px;
-    }
-
-    .content .extra > span,
-    .content .extra > a {
-        margin-right: 20px;
-    }
-
-    .content .extra a {
-        color: #999;
-    }
-
-    .content .extra .like:hover {
-        color: #FF5E52;
-    }
-
-    .content .extra a span {
-        text-decoration: underline;
-    }
-
-    .content .tags span:hover {
-        color: #FF5E52;
-    }
-
-    /*单图*/
-    .content .single p {
-        width: 70%;
-        float: left;
-        clear: both;
-    }
-
-    .content .single .thumb {
-        display: block;
-        width: 25%;
-        margin-left: 5%;
-        position: relative;
-        overflow: hidden;
-    }
-
-    /*多图*/
-    .content .multi p {
-        clear: both;
-    }
-
-    .content .multi .thumb {
-        margin-top: 10px;
-    }
-
-    .content .multi .thumb a {
-        display: block;
-        text-align: justify;
-        font-size: 0;
-    }
-
-    .content .multi .thumb a:after {
-        display: inline-block;
-        content: '';
-        width: 24%;
-    }
-
-    .content .multi .thumb span {
-        display: inline-block;
-        width: 24%;
-        position: relative;
-    }
-
-    /*遮罩特效*/
-    .content .multi .thumb span:after,
-    .content .single .thumb:after {
-        display: inline-block;
-        content: '';
-        position: absolute;
-        left: 0;
-        right: 0;
-        top: 0;
-        bottom: 0;
-        transition: all 0.25s linear;
-        background-color: rgba(0, 0, 0, 0);
-        box-sizing: border-box;
-    }
-
-    .content .single .thumb:after {
-        left: 0;
-        right: 0;
-    }
-
-    .content .multi .thumb span:hover:after,
-    .content .single .thumb:hover:after {
-        z-index: 1;
-        background-color: rgba(0, 0, 0, 0.4);
-    }
-
-    /*一周热门排行*/
-    .content .top {
-        margin-bottom: 20px;
-    }
-
-    .content .top dd {
-        line-height: 20px;
-        vertical-align: middle;
-        margin-bottom: 15px;
-    }
-
-    .content .top dd i {
-        display: inline-block;
-        padding: 0 7px;
-        font-size: 12px;
-        font-style: normal;
-        color: #FFF;
-        background-color: #999;
-    }
-
-    .content .top dd:nth-child(1) i {
-        background-color: #FD8C84;
-    }
-
-    .content .top dd:nth-child(2) i {
-        background-color: #7FD75A;
-    }
-
-    .content .top dd:nth-child(3) i {
-        background-color: #60C4FD
-    }
-
-    .content .top a {
-        color: #444;
-    }
-
-    .content .top a:hover {
-        color: #FF5E52;
-    }
-
-    .content .top span,
-    .content .top .like {
-        color: #999;
-        float: right;
-        line-height: 14px;
-        font-size: 12px;
-    }
-
-    .content .top span {
-        margin-right: 20px;
-    }
-
-    /*热门推荐*/
-    .content .hots {
-        margin-bottom: 10px;
-    }
-
-    .content .hots dd {
-        text-align: justify;
-        font-size: 0;
-        margin-bottom: 0;
-    }
-
-    .content .hots dd:after {
-        display: inline-block;
-        width: 24%;
-        content: '';
-    }
-
-    .content .hots dd a {
-        display: inline-block;
-        width: 24%;
-        line-height: 1.4;
-        font-size: 14px;
-        overflow: hidden;
-        color: #666;
-    }
-
-    .content .hots dd a:hover {
-        color: #FF5E52;
-    }
-
-    .content .hots dd img {
-        height: 132px;
-        margin-bottom: 5px;
-    }
-
-    .content .hots dd span {
-        display: inline-block;
-        height: 40px;
-        overflow: hidden;
-    }
-
-    /*最新发布*/
-    .content .new dl:after,
-    .content .sort dl:after {
-        content: '';
-        width: 110%;
-        margin: 0 -20px;
-        border-bottom: 1px solid #EEE;
-        position: absolute;
-        left: 0;
-        bottom: 0;
-    }
 </style>
 <script>
 

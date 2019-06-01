@@ -68,7 +68,7 @@
         width: 100%;
         height: 120px;
         text-indent: -2000px;
-        background: #FF5E52 url(../images/logo.png);
+        background: #FF5E52 url(../assets/images/logo.png);
     }
     .header .logo a {
         display: block;

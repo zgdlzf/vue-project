@@ -5,19 +5,19 @@
         <div class="slider swipe">
             <ul class="swipe-wrap">
                 <li>
-                    <img src="./uploads/slide_1.jpg">
+                    <img src="../assets/uploads/slide_1.jpg">
                     <span>XIU主题演示</span>
                 </li>
                 <li>
-                    <img src="./uploads/slide_2.jpg">
+                    <img src="../assets/uploads/slide_2.jpg">
                     <span>XIU主题演示</span>
                 </li>
                 <li>
-                    <img src="./uploads/slide_1.jpg">
+                    <img src="../assets/uploads/slide_1.jpg">
                     <span>XIU主题演示</span>
                 </li>
                 <li>
-                    <img src="./uploads/slide_2.jpg">
+                    <img src="../assets/uploads/slide_2.jpg">
                     <span>XIU主题演示</span>
                 </li>
             </ul>
@@ -40,15 +40,15 @@
         <div class="focus">
             <ul>
                 <li class="large">
-                    <img src="./uploads/hots_1.jpg" alt="">
+                    <img src="../assets/uploads/hots_1.jpg" alt="">
                     <span>XIU主题演示</span>
                 </li>
                 <li>
-                    <img src="./uploads/hots_2.jpg" alt="">
+                    <img src="../assets/uploads/hots_2.jpg" alt="">
                     <span>星球大战:原力觉醒视频演示 电影票68</span>
                 </li>
                 <li>
-                    <img src="./uploads/hots_3.jpg" alt="">
+                    <img src="../assets/uploads/hots_3.jpg" alt="">
                     <span>你敢骑吗？全球第一辆全功能3D打印摩托车亮相</span>
                 </li>
                 <li>
@@ -56,7 +56,7 @@
                     <span>又现酒窝夹笔盖新技能 城里人是不让人活了！</span>
                 </li>
                 <li>
-                    <img src="./uploads/hots_5.jpg" alt="">
+                    <img src="../assets/uploads/hots_5.jpg" alt="">
                     <span>实在太邪恶！照亮妹纸绝对领域与私处</span>
                 </li>
             </ul>
@@ -107,19 +107,19 @@
             <dl>
                 <dd>
                     <a href="javascript:;">
-                        <img src="./uploads/hots_2.jpg" alt="">
+                        <img src="../assets/uploads/hots_2.jpg" alt="">
                         <span>星球大战:原力觉醒视频演示 电影票68</span>
                     </a>
                     <a href="javascript:;">
-                        <img src="./uploads/hots_3.jpg" alt="">
+                        <img src="../assets/uploads/hots_3.jpg" alt="">
                         <span>你敢骑吗？全球第一辆全功能3D打印摩托车亮相</span>
                     </a>
                     <a href="javascript:;">
-                        <img src="./uploads/hots_4.jpg" alt="">
+                        <img src="../assets/uploads/hots_4.jpg" alt="">
                         <span>又现酒窝夹笔盖新技能 城里人是不让人活了！</span>
                     </a>
                     <a href="javascript:;">
-                        <img src="./uploads/hots_5.jpg" alt="">
+                        <img src="../assets/uploads/hots_5.jpg" alt="">
                         <span>实在太邪恶！照亮妹纸绝对领域与私处</span>
                     </a>
                 </dd>
@@ -166,16 +166,16 @@
                     <p class="thumb">
                         <a href="javascript:;">
 								<span>
-									<img src="./uploads/new_1.jpg" alt="">
+									<img src="../assets/uploads/new_1.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_2.jpg" alt="">
+									<img src="../assets/uploads/new_2.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_3.jpg" alt="">
+									<img src="../assets/uploads/new_3.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_4.jpg" alt="">
+									<img src="../assets/uploads/new_4.jpg" alt="">
 								</span>
                         </a>
                     </p>
@@ -204,16 +204,16 @@
                     <p class="thumb">
                         <a href="javascript:;">
 								<span>
-									<img src="./uploads/new_5.jpg" alt="">
+									<img src="../assets/uploads/new_5.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_6.jpg" alt="">
+									<img src="../assets/uploads/new_6.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_7.jpg" alt="">
+									<img src="../assets/uploads/new_7.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_8.jpg" alt="">
+									<img src="../assets/uploads/new_8.jpg" alt="">
 								</span>
                         </a>
                     </p>
@@ -254,7 +254,7 @@
                         </a>
                     </p>
                     <a href="javascript:;" class="thumb">
-                        <img src="./uploads/new_9.jpg" alt="">
+                        <img src="../assets/uploads/new_9.jpg" alt="">
                     </a>
                 </dd>
             </dl>
@@ -269,16 +269,16 @@
                     <p class="thumb">
                         <a href="javascript:;">
 								<span>
-									<img src="./uploads/new_10.jpg" alt="">
+									<img src="../assets/uploads/new_10.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_11.jpg" alt="">
+									<img src="../assets/uploads/new_11.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_12.jpg" alt="">
+									<img src="../assets/uploads/new_12.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_13.jpg" alt="">
+									<img src="../assets/uploads/new_13.jpg" alt="">
 								</span>
                         </a>
                     </p>
@@ -307,16 +307,16 @@
                     <p class="thumb">
                         <a href="javascript:;">
 								<span>
-									<img src="./uploads/new_14.jpg" alt="">
+									<img src="../assets/uploads/new_14.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_15.jpg" alt="">
+									<img src="../assets/uploads/new_15.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_16.jpg" alt="">
+									<img src="../assets/uploads/new_16.jpg" alt="">
 								</span>
 								<span>
-									<img src="./uploads/new_17.jpg" alt="">
+									<img src="../assets/uploads/new_17.jpg" alt="">
 								</span>
                         </a>
                     </p>
@@ -339,168 +339,7 @@
     </div>
 </template>
 <style>
-    .swipe {
-        overflow: hidden;
-        visibility: hidden;
-        position: relative;
-    }
-    .swipe-wrap {
-        overflow: hidden;
-        position: relative;
-    }
-    .swipe-wrap > li {
-        float:left;
-        width:100%;
-        position: relative;
-    }
-    /*主体内容*/
-    .content {
-        padding: 20px 25px 0;
-        margin: 0 300px 0 190px;
-    }
 
-    /*焦点图*/
-    .content .slider {
-        width: 100%;
-        margin-bottom: 20px;
-        overflow: hidden;
-        position: relative;
-    }
-
-    .content .slider ul {
-        position: relative;
-    }
-
-    .content .slider li {
-        overflow: hidden;
-        position: relative;
-    }
-
-    .content .slider li span {
-        position: absolute;
-        bottom: 0;
-        width: 100%;
-        height: 40px;
-        line-height: 20px;
-        padding: 10px;
-        box-sizing: border-box;
-        font-size: 16px;
-        color: #FFF;
-        background-color: rgba(0, 0, 0, 0.7);
-    }
-
-    .content .cursor {
-        position: absolute;
-        right: 0;
-        bottom: 15px;
-        width: 200px;
-        height: 10px;
-        text-align: right;
-        margin-right: 10px;
-        font-size: 0;
-    }
-
-    .content .cursor span {
-        display: inline-block;
-        width: 9px;
-        height: 9px;
-        margin: 0 3px;
-        box-sizing: border-box;
-        border: 1px solid #FFF;
-        border-radius: 9px;
-        cursor: pointer;
-    }
-
-    .content .cursor .active {
-        background-color: #FFF;
-    }
-
-    .content .arrow {
-        position: absolute;
-        top: 50%;
-        width: 50px;
-        height: 60px;
-        text-align: center;
-        line-height: 60px;
-        margin-top: -30px;
-        color: #FFF;
-        background-color: #000;
-        opacity: 0.35;
-        font-size: 20px;
-        display: none;
-    }
-
-    .content .slider:hover .arrow {
-        display: block;
-    }
-
-    .content .next {
-        right: 0;
-    }
-
-    .content .arrow:hover {
-        opacity: 0.7;
-    }
-
-    /*热门*/
-    .focus {
-        margin-bottom: 10px;
-    }
-
-    .focus ul {
-        padding-left: 50%;
-        overflow: hidden;
-    }
-
-    .focus li.large {
-        width: 100%;
-        height: 266px;
-        padding-left: 0;
-        margin-left: -100%;
-    }
-
-    .focus li {
-        width: 50%;
-        height: 128px;
-        padding-left: 10px;
-        margin-bottom: 10px;
-        box-sizing: border-box;
-        overflow: hidden;
-        float: left;
-        position: relative;
-    }
-
-    .focus li span {
-        display: block;
-        position: absolute;
-        bottom: 0;
-        width: 100%;
-        height: 40px;
-        padding: 4px 10px 0;
-        font-size: 12px;
-        line-height: 16px;
-        color: #FFF;
-        background-color: rgba(0, 0, 0, 0.7);
-        box-sizing: border-box;
-        transition: all linear 0.5s;
-    }
-
-    .focus li:hover span {
-        background-color: #FF5E52;
-    }
-
-    .focus li.large span {
-        font-size: 16px;
-        line-height: 32px;
-    }
-
-    .focus li.large:hover span {
-        background-color: rgba(0, 0, 0, 0);
-    }
-
-    .focus li img {
-        height: 100%;
-    }
 </style>
 <script>
 

@@ -30,54 +30,15 @@
             </ul>
         </div>
         <!-- ¹Ì¶¨µ¼º½ -->
+        <my-header></my-header>
         <!-- ²à±ßÀ¸ -->
+        <my-aside></my-aside>
         <!-- ÍøÕ¾Ö÷Ìå -->
         <!-- µ×²¿À¸ -->
     </div>
 </template>
 <style>
-    a, input {
-        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-    }
 
-    body {
-        color: #444;
-        font-size: 14px;
-        font-family: "Microsoft Yahei", "Helvetica Neue", Helvetica, Arial, sans-serif;
-        background-color: #EEE;
-        overflow-x: hidden;
-    }
-
-    /*reset*/
-    ul, dl, dt, dd, h1, h2, h3, h4, h5, h6, p {
-        padding: 0;
-        margin: 0;
-    }
-
-    ul {
-        list-style: none;
-    }
-
-    a {
-        text-decoration: none;
-    }
-
-    img {
-        display: block;
-        width: 100%;
-        max-width: 100%;
-        max-height: 100%;
-    }
-
-    .clearfix:before,
-    .clearfix:after {
-        content: ' ';
-        display: table;
-    }
-
-    .clearfix:after {
-        clear: both;
-    }
 
     .wrapper {
         max-width: 1440px;
@@ -126,5 +87,14 @@
 
 </style>
 <script>
-
+//    const myHeader=require('./components/header.vue');
+//    const myAside=require('./components/aside.vue');
+    import myHeader from './components/header.vue';
+    import myAside from './components/aside.vue';
+    export default{
+        components:{
+            myHeader:myHeader,
+            myAside:myAside
+        }
+    }
 </script>

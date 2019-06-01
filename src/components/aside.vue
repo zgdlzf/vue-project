@@ -28,7 +28,7 @@
                         <p class="title">废灯泡的14种玩法 妹子见了都会心动</p>
                         <p class="reading">阅读(819)</p>
                         <div class="pic">
-                            <img src="./uploads/widget_1.jpg" alt="">
+                            <img src="../assets/uploads/widget_1.jpg" alt="">
                         </div>
                     </a>
                 </li>
@@ -37,7 +37,7 @@
                         <p class="title">可爱卡通造型 iPhone 6防水手机套</p>
                         <p class="reading">阅读(819)</p>
                         <div class="pic">
-                            <img src="./uploads/widget_2.jpg" alt="">
+                            <img src="../assets/uploads/widget_2.jpg" alt="">
                         </div>
                     </a>
                 </li>
@@ -46,7 +46,7 @@
                         <p class="title">变废为宝！将手机旧电池变为充电宝的Better</p>
                         <p class="reading">阅读(819)</p>
                         <div class="pic">
-                            <img src="./uploads/widget_3.jpg" alt="">
+                            <img src="../assets/uploads/widget_3.jpg" alt="">
                         </div>
                     </a>
                 </li>
@@ -55,7 +55,7 @@
                         <p class="title">老外偷拍桂林芦笛岩洞 美如“地下彩虹”</p>
                         <p class="reading">阅读(819)</p>
                         <div class="pic">
-                            <img src="./uploads/widget_4.jpg" alt="">
+                            <img src="../assets/uploads/widget_4.jpg" alt="">
                         </div>
                     </a>
                 </li>
@@ -64,7 +64,7 @@
                         <p class="title">doge神烦狗打底南瓜裤 就是如此魔性</p>
                         <p class="reading">阅读(819)</p>
                         <div class="pic">
-                            <img src="./uploads/widget_5.jpg" alt="">
+                            <img src="../assets/uploads/widget_5.jpg" alt="">
                         </div>
                     </a>
                 </li>
@@ -77,7 +77,7 @@
                 <li>
                     <a href="javascript:;">
                         <div class="avatar">
-                            <img src="./images/avatar_1.jpg" alt="">
+                            <img src="../assets/images/avatar_1.jpg" alt="">
                         </div>
                         <div class="txt">
                             <p>
@@ -90,7 +90,7 @@
                 <li>
                     <a href="javascript:;">
                         <div class="avatar">
-                            <img src="./images/avatar_1.jpg" alt="">
+                            <img src="../assets/images/avatar_1.jpg" alt="">
                         </div>
                         <div class="txt">
                             <p>
@@ -103,7 +103,7 @@
                 <li>
                     <a href="javascript:;">
                         <div class="avatar">
-                            <img src="./images/avatar_2.jpg" alt="">
+                            <img src="../assets/images/avatar_2.jpg" alt="">
                         </div>
                         <div class="txt">
                             <p>
@@ -116,7 +116,7 @@
                 <li>
                     <a href="javascript:;">
                         <div class="avatar">
-                            <img src="./images/avatar_1.jpg" alt="">
+                            <img src="../assets/images/avatar_1.jpg" alt="">
                         </div>
                         <div class="txt">
                             <p>
@@ -129,7 +129,7 @@
                 <li>
                     <a href="javascript:;">
                         <div class="avatar">
-                            <img src="./images/avatar_2.jpg" alt="">
+                            <img src="../assets/images/avatar_2.jpg" alt="">
                         </div>
                         <div class="txt">
                             <p>
@@ -142,7 +142,7 @@
                 <li>
                     <a href="javascript:;">
                         <div class="avatar">
-                            <img src="./images/avatar_1.jpg" alt="">
+                            <img src="../assets/images/avatar_1.jpg" alt="">
                         </div>
                         <div class="txt">
                             <p>

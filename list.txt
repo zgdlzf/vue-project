@@ -16,3 +16,8 @@ vue 组件拆分
 将index的header、aside和footer部分拆分到components
 并新建app.vue用于存放wrapper>topnav
 新建index.vue、list.vue、detail.vue保留content
+第二步
+npm install vue-template-compiler 
+npm install vue
+第三步
+修改main.js和app.vue文件

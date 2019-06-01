@@ -34,7 +34,9 @@
         <!-- ²à±ßÀ¸ -->
         <my-aside></my-aside>
         <!-- ÍøÕ¾Ö÷Ìå -->
+        <router-view></router-view>
         <!-- µ×²¿À¸ -->
+        <my-footer></my-footer>
     </div>
 </template>
 <style>
@@ -91,10 +93,12 @@
 //    const myAside=require('./components/aside.vue');
     import myHeader from './components/header.vue';
     import myAside from './components/aside.vue';
+    import myFooter from './components/footer.vue';
     export default{
         components:{
             myHeader:myHeader,
-            myAside:myAside
+            myAside:myAside,
+            myFooter:myFooter
         }
     }
 </script>

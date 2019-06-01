@@ -52,7 +52,7 @@
                     <span>你敢骑吗？全球第一辆全功能3D打印摩托车亮相</span>
                 </li>
                 <li>
-                    <img src="./uploads/hots_4.jpg" alt="">
+                    <img src="../assets/uploads/hots_4.jpg" alt="">
                     <span>又现酒窝夹笔盖新技能 城里人是不让人活了！</span>
                 </li>
                 <li>
@@ -151,7 +151,7 @@
                         </a>
                     </p>
                     <a href="javascript:;" class="thumb">
-                        <img src="./uploads/hots_2.jpg" alt="">
+                        <img src="../assets/uploads/hots_2.jpg" alt="">
                     </a>
                 </dd>
             </dl>

@@ -21,3 +21,5 @@ npm install vue-template-compiler
 npm install vue
 第三步
 修改main.js和app.vue文件
+第四步 配置路由
+index.js

@@ -102,7 +102,7 @@
                         </a>
                     </p>
                     <a href="javascript:;" class="thumb">
-                        <img src="./uploads/new_9.jpg" alt="">
+                        <img src="../assets/uploads/new_9.jpg" alt="">
                     </a>
                 </dd>
             </dl>

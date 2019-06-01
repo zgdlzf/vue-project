@@ -6,10 +6,12 @@
 import Vue from 'vue';
 import App from './app.vue';
 import './assets/css/main.css';
+import router from './routes/index.js';
 
 new Vue({
     el:'#App',
     render:function(h){
         return h(App);
-    }
+    },
+    router:router
 })
